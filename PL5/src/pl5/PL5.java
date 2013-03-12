@@ -1,3 +1,4 @@
+
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -15,5 +16,6 @@ public class PL5 {
      */
     public static void main(String[] args) {
         System.out.println("Olá!");// TODO code application logic here
+        System.out.println("Olá2");// TODO code application logic here
     }
 }
